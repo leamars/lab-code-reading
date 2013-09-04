@@ -14,6 +14,7 @@ public class Main {
 	for (int i = 0; i < 5; i++) {
 	    pen.println(i + " squared is " + MathUtils.square(i));
 	    //SOME STUFF
+	    // SOME MORE STUFF
 	} // for
     } // main(String[])
 } // main
